@@ -41,6 +41,11 @@
                 <string>soundcloud</string>
                 <string>fb-messenger</string>
                 <string>instagram</string>
+                <string>ms-word</string>
+            <string>ms-excel</string>
+            <string>ms-powerpoint</string>
+            <string>in.tatarealty.app.HolidayCalendar</string>
+            <string>in.tatarealty.app.roombooking</string>
             </array>
         </config-file>
         
