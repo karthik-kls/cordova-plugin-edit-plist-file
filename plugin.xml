@@ -46,6 +46,19 @@
             <string>ms-powerpoint</string>
             <string>in.tatarealty.app.HolidayCalendar</string>
             <string>in.tatarealty.app.roombooking</string>
+            <string>leena-ai://app.leena.ai</string>
+            <string>altWorklife://</string>
+            <string>mspbi://app/abc</string>
+            <string>edcastapp://join_organization</string>
+            <string>travelhappay://sso</string>
+            <string>sociabble://sociabblepush</string>
+            <string>oraclehcmcloud://deeplink</string>
+            <string>ms-onedrive://</string>
+            <string>ms-officemobile://</string>
+            <string>msteams://teams.microsoft.com/l/chat/0/0?users=</string>
+            <string>http://com.microsoft.rightsmanagement.mobile.viewer</string>
+            <string>ms-outlook://compose</string>
+            <string>com.salesforce.chatter://</string>
             </array>
         </config-file>
         
